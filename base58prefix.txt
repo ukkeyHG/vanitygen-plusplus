@@ -106,6 +106,7 @@ RVN,Ravencoin,R,60,128
 SCA,Scamcoin,S,63,191
 SDC,Shadowcoin,S,63,191
 SKC,Skeincoin,S,63,226
+SMT,Smartiecoin,S,63,128
 SPR,Spreadcoin,S,63,191
 START,Startcoin,s,125,253
 SXC,Sexcoin,R or S,62,190
@@ -114,6 +115,7 @@ TPC,Templecoin,T,65,193
 TRX,Tron,T,65,
 TUX,Tuxcoin,T,65,193
 UIS,Unitus,U,68,132
+UKY,UkkeyCoin,U,68,196
 UNO,Unobtanium,u,130,224
 VIA,Viacoin,V,71,199
 VIPS,VIPSTARCOIN,V,70,128
